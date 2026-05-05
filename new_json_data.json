@@ -1,0 +1,283 @@
+{
+  "Total Revenue \n- All Services": {
+    "Focus:": "Financial",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": "Target",
+    "6": "`",
+    "1771200000000": 40454.28,
+    "1770595200000": 42360.64,
+    "1769990400000": 39202.17
+  },
+  "Total Product Revenue - All Services": {
+    "Focus:": "Financial",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Theraguns Sold (#)": {
+    "Focus:": "Financial",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Pillows": {
+    "Focus:": "Financial",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Custom Knee Brace": {
+    "Focus:": "Financial",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Orthotics": {
+    "Focus:": "Financial",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Total Payments - All Services": {
+    "Focus:": "Collection",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 48464.61,
+    "1770595200000": 34022.04,
+    "1769990400000": 40068.6
+  },
+  "Revenue Collected (4 wk avg)": {
+    "Focus:": "Collection",
+    "Source:": "Ratio",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 1.00441053,
+    "1770595200000": 0.9083875359,
+    "1769990400000": 1.022101583
+  },
+  "AR > 90 days": {
+    "Focus:": "Collection",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 0,
+    "1770595200000": 182,
+    "1769990400000": 60
+  },
+  "Total AR": {
+    "Focus:": "Collection",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 56578.43,
+    "1770595200000": 65386.72,
+    "1769990400000": 57239.65
+  },
+  "Online Bookings Via Jane": {
+    "Focus:": "Bookings",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 36,
+    "1770595200000": 45,
+    "1769990400000": 43
+  },
+  "Consult Requests": {
+    "Focus:": "Marketing",
+    "Source:": "Form",
+    "Role:": null,
+    "...+": null,
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Consults turned Ax": {
+    "Focus:": "Marketing",
+    "Source:": "EMR",
+    "Role:": null,
+    "...+": null,
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Total Ax \n- All Services": {
+    "Focus:": "Marketing",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 42,
+    "1770595200000": 54,
+    "1769990400000": 56
+  },
+  "Ax 4 Week Avg": {
+    "Focus:": "Marketing",
+    "Source:": "GS",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 50.66666667,
+    "1770595200000": 55,
+    "1769990400000": 56
+  },
+  "# of Rx (Clinic Wide)": {
+    "Focus:": "Caseload",
+    "Source:": "EMR",
+    "Role:": "J",
+    "...+": null,
+    "6": null,
+    "1771200000000": 377,
+    "1770595200000": 377,
+    "1769990400000": 340
+  },
+  "Clinic PVA": {
+    "Focus:": null,
+    "Source:": null,
+    "Role:": null,
+    "...+": null,
+    "6": null,
+    "1771200000000": 7.440789474,
+    "1770595200000": 6.854545455,
+    "1769990400000": 6.071428571
+  },
+  "CROSS REFERRAL AX (Total)": {
+    "Focus:": null,
+    "Source:": "Caseload",
+    "Role:": "NAR",
+    "...+": "Nicole",
+    "6": null,
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Submitted\n": {
+    "Focus:": null,
+    "Source:": null,
+    "Role:": "Treatment Plan",
+    "...+": "Jane",
+    "6": "J",
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": 498
+  },
+  "Unsubmitted": {
+    "Focus:": 669,
+    "Source:": 599,
+    "Role:": "Treatment Plan",
+    "...+": "Jane",
+    "6": "J",
+    "1771200000000": null,
+    "1770595200000": null,
+    "1769990400000": 100
+  },
+  "Cancelled \n Total Ax": {
+    "Focus:": null,
+    "Source:": null,
+    "Role:": null,
+    "...+": "New Clients",
+    "6": "EMR",
+    "1771200000000": "J",
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Cancelled \nAx (Online)": {
+    "Focus:": 14,
+    "Source:": 8,
+    "Role:": 9,
+    "...+": "Online",
+    "6": "EMR",
+    "1771200000000": "J ",
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Cancelled Ax Online %": {
+    "Focus:": 0,
+    "Source:": 0,
+    "Role:": 0,
+    "...+": "Online",
+    "6": "EMR",
+    "1771200000000": "J",
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Cancelled Online Ax WINBACK": {
+    "Focus:": 0,
+    "Source:": 0,
+    "Role:": 0,
+    "...+": "Online",
+    "6": "EMR",
+    "1771200000000": "J",
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Cancellation %": {
+    "Focus:": null,
+    "Source:": null,
+    "Role:": null,
+    "...+": "Caseload",
+    "6": "EMR",
+    "1771200000000": "J",
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "# of Fall Offs\n(Total)": {
+    "Focus:": 0.1707317073,
+    "Source:": 0.1149897331,
+    "Role:": 0.1236203091,
+    "...+": "Caseload",
+    "6": "EMR",
+    "1771200000000": "J",
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "Fall Off % Called": {
+    "Focus:": null,
+    "Source:": 113,
+    "Role:": 103,
+    "...+": "Caseload",
+    "6": "Tracker",
+    "1771200000000": "Nicole",
+    "1770595200000": null,
+    "1769990400000": null
+  },
+  "FB Reviews": {
+    "Focus:": null,
+    "Source:": null,
+    "Role:": null,
+    "...+": null,
+    "6": "Marketing",
+    "1771200000000": "Facebook",
+    "1770595200000": "J",
+    "1769990400000": null
+  },
+  "Google Reviews": {}
+}
