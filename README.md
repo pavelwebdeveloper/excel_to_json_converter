@@ -1,8 +1,8 @@
 To run the software:
 
-1. Run "git clone https://github.com/pavelwebdeveloper/converter.git" locally on your computer in CMD
+1. Run "git clone https://github.com/pavelwebdeveloper/excel_to_json_converter.git" locally on your computer in CMD
 2. Make sure that you have Python installed
-3. python convert.py
+3. in CMD run locally "python convert.py" inside excel_to_json_converter folder
 
 
 I chose this JSON shape because it. In my opinion it optimally fits the structure of the table. 
