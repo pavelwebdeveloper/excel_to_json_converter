@@ -20,4 +20,8 @@ I chose this JSON shape because it. In my opinion it optimally fits the structur
   
   
 The empty columns were ignored by the logic.
-Date was a little bit reformatted.
+Dates were a little bit reformatted
+Some intiger values were cast to string
+
+With another two hours I would set apart PHONE PERFOMANCE data
+I would replace nulls with " "
