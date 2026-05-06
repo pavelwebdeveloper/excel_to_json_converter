@@ -1,0 +1,17 @@
+The Task
+
+We're going to give you a real spreadsheet we use internally — a clinic performance scoreboard (Scoreboard Test.xlsx). Your job is to write a Python script that reads this file and converts it into a usable JSON file without losing any data or headings.
+The keyword is usable. We don't want a dump that's technically lossless but impossible to query. We want JSON that another developer (or an LLM, or a dashboard) could pick up and immediately make sense of.
+
+Deliverables
+
+convert.py — your script.
+requirements.txt.
+output.json — the result of running your script against Scoreboard Test.xlsx.
+README.md — short. 
+
+Tell us:
+How to run it.
+The JSON shape you chose, and why. A small example snippet helps.
+What you decided to do about the messy bits (merged cells, spacer columns, formulas, etc.) and what trade-offs you made.
+Anything you would have done with another two hours.
